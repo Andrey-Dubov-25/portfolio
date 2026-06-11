@@ -56,7 +56,8 @@
 * Pytest
 * PostgreSQL
 * Docker
-* Redoc\
+* Redoc
+  
 **Deadline** - *1 неделя*. **Время выполнения** - *5 дней*.
     
 2) [Departments](https://github.com/Andrey-Dubov-25/departments)
