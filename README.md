@@ -13,7 +13,7 @@
   
 **Deadline** - *2 недели*. **Время выполнения** - *1,5 недели*.
 
-* Второй итоговый проект - тестирование [Ya_Note](https://github.com/Andrey-Dubov-25/ya_note) и Ya_News(https://github.com/Andrey-Dubov-25/ya_news)
+* Второй итоговый проект - тестирование [Ya_Note](https://github.com/Andrey-Dubov-25/ya_note) и [Ya_News] (https://github.com/Andrey-Dubov-25/ya_news)
   
 Освоил pytest и unittest: покрыл тестами основной функционал двух готовых проектов.\
 Теперь при изменении кода сразу видно отклонения от ожидаемого поведения, а логика системы стала прозрачнее.\
