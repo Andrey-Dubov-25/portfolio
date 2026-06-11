@@ -60,4 +60,9 @@
   
 Реализовал API для управления подразделениями и сотрудниками с защитой от циклических ссылок, каскадным удалением и получением дерева подразделений заданной глубины. Использовал рекурсивный подход для построения иерархии.\
 **Deadline** - *1 неделя*. **Время выполнения** - *4 дня*.
+
+# Сертификаты
+[Яндекс.Практикум - python-разработчик](https://github.com/Andrey-Dubov-25/Practicum_projects/blob/main/сertificates/yandex_practicum.jpg)
+[Stepic - Python для начинающих](https://github.com/Andrey-Dubov-25/Practicum_projects/blob/main/сertificates/stepic_beginner.jpg)
+[Stepic - Python для продвинутых](https://github.com/Andrey-Dubov-25/Practicum_projects/blob/main/сertificates/stepic_advanced.jpg)
   
