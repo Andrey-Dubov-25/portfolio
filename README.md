@@ -61,6 +61,18 @@
 Реализовал API для управления подразделениями и сотрудниками с защитой от циклических ссылок, каскадным удалением и получением дерева подразделений заданной глубины. Использовал рекурсивный подход для построения иерархии.\
 **Deadline** - *1 неделя*. **Время выполнения** - *4 дня*.
 
+## Самостоятельное изучение
+[MyLibrary](https://github.com/Andrey-Dubov-25/my_library)
+Разработал REST API для управления списком книг.  Приложение умеет добавлять книги, показывать список, искать конкретную книгу, обновлять данные и удалять книги.
+
+*В проекте используется следующий стек*
+* Python
+* FastAPI
+* SQLAlchemy
+* aiosqlite
+
+**Время выполнения** - *5 дней*
+
 ## Сертификаты
 * [Яндекс.Практикум - python-разработчик](https://github.com/Andrey-Dubov-25/Practicum_projects/blob/main/сertificates/yandex_practicum.jpg)
 * [Stepic - Python для начинающих](https://github.com/Andrey-Dubov-25/Practicum_projects/blob/main/сertificates/stepic_beginner.jpg)
