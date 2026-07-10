@@ -78,4 +78,5 @@
 * [Яндекс.Практикум - python-разработчик](https://github.com/Andrey-Dubov-25/Practicum_projects/blob/main/сertificates/yandex_practicum.jpg)
 * [Stepic - Python для начинающих](https://github.com/Andrey-Dubov-25/Practicum_projects/blob/main/сertificates/stepic_beginner.jpg)
 * [Stepic - Python для продвинутых](https://github.com/Andrey-Dubov-25/Practicum_projects/blob/main/сertificates/stepic_advanced.jpg)
-  
+* [Stepic - ООП-база](https://github.com/Andrey-Dubov-25/portfolio/blob/main/сertificates/ООП-база.jpg)
+* [Stepic - ООП-продвинутый](https://github.com/Andrey-Dubov-25/portfolio/blob/main/сertificates/ООП-продвинутый.jpg)
