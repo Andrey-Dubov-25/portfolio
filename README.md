@@ -39,8 +39,10 @@
 * Python
 * Django
 * DRF
+* Pytest
 * PostgreSQL
 * Docker
+* Redoc
 
 **Deadline** - *1 неделя*. **Время выполнения** - *4 дня*.
 
