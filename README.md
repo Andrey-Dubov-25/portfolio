@@ -2,7 +2,7 @@
 
 ## Заказная разработка
 
-### [Memory Test](https://github.com/Andrey-Dubov-25/portfolio/tree/main/сertificates)
+### [Memory Test](https://github.com/Andrey-Dubov-25/portfolio/blob/main/сertificates/Тренажер%20памяти.pdf)
 
 Разрабатывал backend веб-приложения для тренировки памяти и когнитивных функций пользователей старшего возраста. Работал в команде из 22 человек (6 frontend-разработчиков, 6 backend-разработчиков, 9 дизайнеров, менеджер).
 В команде backend-разработчиков я отвечал за следующие задачи:
