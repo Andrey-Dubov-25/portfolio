@@ -160,6 +160,7 @@ Docker Compose из 5 сервисов с healthcheck'ами и автонака
 
 ## Сертификаты
 * [Яндекс.Практикум - python-разработчик](https://github.com/Andrey-Dubov-25/Practicum_projects/blob/main/сertificates/yandex_practicum.jpg)
+* [Тренажер Памяти](https://github.com/Andrey-Dubov-25/portfolio/blob/main/сertificates/Тренажер%20памяти.pdf)
 * [Stepic - Python для начинающих](https://github.com/Andrey-Dubov-25/Practicum_projects/blob/main/сertificates/stepic_beginner.jpg)
 * [Stepic - Python для продвинутых](https://github.com/Andrey-Dubov-25/Practicum_projects/blob/main/сertificates/stepic_advanced.jpg)
 * [Stepic - ООП-база](https://github.com/Andrey-Dubov-25/portfolio/blob/main/сertificates/ООП-база.jpg)
