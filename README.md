@@ -57,7 +57,7 @@ Templates + HTMX: 12+ страниц, тёмная/светлая тема, SEO,
   
 **Deadline** - *3 дня*. **Время выполнения** - *2 дня*.
 
-2) ### [GQB](https://github.com/Andrey-Dubov-25/guild_quest_board)
+2) ### [Guild Quest Board](https://github.com/Andrey-Dubov-25/guild_quest_board)
   
 Разработал backend‑сервис для доски квестов фэнтези‑гильдии на Django + DRF с использованием PostgreSQL. Настроил запуск через Docker Compose, подготовил документацию API (Redoc), README с подробной инструкцией по развёртыванию и тесты для основных бизнес‑процессов. Проект готов к интеграции с фронтендом и масштабированию.
 
