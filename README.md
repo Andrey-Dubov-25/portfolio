@@ -40,7 +40,14 @@ Templates + HTMX: 12+ страниц, тёмная/светлая тема, SEO,
 
 1) ### [Deribit Price Service](https://github.com/Andrey-Dubov-25/deribit-price-service)
 
-Разработал backend-сервис, который раз в минуту забирает index price (btc_usd, eth_usd) с биржи Deribit и сохраняет в PostgreSQL. Данные доступны через REST API на FastAPI.
+Реализовал асинхронный клиент Deribit на aiohttp с retry и обработкой
+ошибок. Настроил периодический сбор цен через Celery Beat + Worker
+с сохранением в PostgreSQL. Разработал REST API на FastAPI: три
+GET-метода с валидацией параметров и Swagger-документацией. Спроектировал
+схему БД с составным индексом под все запросы API; миграции Alembic.
+Написал 5 unit-тестов (pytest + aioresponses + AsyncMock). Подготовил
+Docker Compose из 5 сервисов с healthcheck'ами и автонакатом миграций.
+Настроил ruff и описал архитектурные решения в README.
 
 *В проекте используется следующий стек*
 * Python
