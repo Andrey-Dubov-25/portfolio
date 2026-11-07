@@ -52,9 +52,10 @@ REST API (DRF) с JWT-авторизацией, фильтрацией, поис
 * Docker
 * Nginx
 * Gunicorn
-* HTMX
+* HTML
 * GitHub Actions
 * Ruff
+* VK API
 
 **Статус** — *активно развивается*.
 
